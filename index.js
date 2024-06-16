@@ -1,4 +1,4 @@
-import './env.js'
+import './src/env.js'
 import logger from '#utils/logger'
 
 const log = logger('index')
